@@ -35,7 +35,7 @@
 		FC75EB4E24C473B5003135EA /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 		FC75EB5024C473C4003135EA /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		FCAF2B9E24C30F0800BD1938 /* CityChildTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityChildTableViewController.swift; sourceTree = "<group>"; };
-		FCBD34FB24C5CB6F00EDC021 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MapViewController.swift; path = clima/View/MapViewController.swift; sourceTree = SOURCE_ROOT; };
+		FCBD34FB24C5CB6F00EDC021 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MapViewController.swift; path = clima/Controllers/MapViewController.swift; sourceTree = SOURCE_ROOT; };
 		FCBD350724C84D5900EDC021 /* MapMarkerInfoView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapMarkerInfoView.xib; sourceTree = "<group>"; };
 		FCBD350924C8513800EDC021 /* MapMarkerInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapMarkerInfoView.swift; sourceTree = "<group>"; };
 		FCE790B824C08658005C4F04 /* clima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = clima.app; sourceTree = BUILT_PRODUCTS_DIR; };
